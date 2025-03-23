@@ -1,3 +1,3 @@
-resource "aws_instance "variable "aws_instance" {
+resource "name" "name" {
   
 }
