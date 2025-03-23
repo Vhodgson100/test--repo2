@@ -1,3 +1,8 @@
 resource "name" "name" {
   
 }
+
+output "
+" {
+  
+}
